@@ -1,0 +1,46 @@
+@font-face {
+    src: url(../fonts/rubik/Rubik-Medium.ttf);
+    font-family: 'Rubik';
+    font-weight: 500;
+}
+@font-face {
+    src: url(../fonts/rubik/Rubik-Regular.ttf);
+    font-family: 'Rubik';
+    font-weight: 400;
+}
+@font-face {
+    src: url(../fonts/Mulish/Mulish-ExtraBold.ttf);
+    font-family: 'Mulish';
+    font-weight: 800;
+}
+@font-face {
+    src: url(../fonts/Mulish/Mulish-Bold.ttf);
+    font-family: 'Mulish';
+    font-weight: 700;
+}
+
+@font-face {
+    src: url(../fonts/Mulish/Mulish-SemiBold.ttf);
+    font-family: 'Mulish';
+    font-weight: 600;
+}
+@font-face {
+    src: url(../fonts/Mulish/Mulish-Medium.ttf);
+    font-family: 'Mulish';
+    font-weight: 500;
+}
+@font-face {
+    src: url(../fonts/Mulish/Mulish-Regular.ttf);
+    font-family: 'Mulish';
+    font-weight: 400;
+}
+@font-face {
+    src: url(../fonts/sans/DMSans-Medium.ttf);
+    font-family: 'DMSans';
+    font-weight: 500;
+}
+@font-face {
+    src: url(../fonts/sans/DMSans-Regular.ttf);
+    font-family: 'DMSans';
+    font-weight: 400;
+}
